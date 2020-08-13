@@ -1,6 +1,8 @@
-# Coding Bootcamp - Python Advanced Classes 
+# Python fundamentals - PacketPrep 
 
-The following repository has the code used in training classes for Packetprep - Coding Bootcamp
+The following repository has the code used in videos lessons in the course Python Fundamentals.
 
-More details at [PacketPrep -Coding Bootcamp](https://packetprep.com/bootcamp)
+
+
+Link to the course [Python Fundamentals](https://packetprep.com/course/python-fundamentals)
 
