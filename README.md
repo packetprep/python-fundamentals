@@ -2,6 +2,7 @@
 
 The following repository has the code used in videos lessons in the course [Python Fundamentals](https://packetprep.com/course/python-fundamentals)
 
+The start folder contains the empty files with only comments, use these files for practice. 
 
 The course covers the following concepts
 1. Hello program
